@@ -99,10 +99,10 @@ I’m on a mission to bridge offensive and defensive security through real-world
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-GIAC_GPEN-333399?&style=for-the-badge&logo=GIAC&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-GIAC_GSEC-FF0000?&style=for-the-badge&logo=GIAC&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-GIAC_GCIH-FF6600?&style=for-the-badge&logo=GIAC&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-GIAC_GFACT-333399?&style=for-the-badge&logo=GIAC&logoColor=white" />
+<img src="https://img.shields.io/badge/-GPEN-333399?&style=for-the-badge&logo=GIAC&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-GSEC-FF0000?&style=for-the-badge&logo=GIAC&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-GCIH-FF6600?&style=for-the-badge&logo=GIAC&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-GFACT-333399?&style=for-the-badge&logo=GIAC&logoColor=white" />
 <img src="https://img.shields.io/badge/-LFCA-000080?&style=for-the-badge&logo=Linux-Foundation&logoColor=white" />
 </div>
 
