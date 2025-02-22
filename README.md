@@ -11,7 +11,6 @@ Currently, I'm expanding my GitHub portfolio with security-focused projects, ins
 I’m on a mission to bridge offensive and defensive security through real-world projects. My goal is to specialize in penetration testing, security automation, and incident response, helping businesses stay ahead of threats. Specifically, I am seeking opportunities as a Security Operations Center (SOC) Analyst (Tier 1), Cybersecurity Analyst, or Incident Responder, where I can apply my skills in threat detection, investigation, and security engineering to strengthen organizations’ defenses.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +22,6 @@ I’m on a mission to bridge offensive and defensive security through real-world
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network Security & Traffic Analysis
 <div>
